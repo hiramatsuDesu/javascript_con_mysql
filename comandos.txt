@@ -1,0 +1,5 @@
+comandos
+
+npm init -y
+npm instal mysql
+node .\mysql.js
